@@ -1,0 +1,21 @@
+*{
+	font-family: 'Exo', sans-serif;
+}
+
+.brand{
+	height: 40px;
+	width: 60px;
+	margin-top: -10px;
+}
+.slogon{
+	position: absolute;
+	top: 5px;
+	left: 75px;
+	font-size: 16px;
+	margin-top: 10px;
+	color: #52224f;
+}
+
+.dropdown-menu > a{
+	font-family: 'Exo', sans-serif;
+}
